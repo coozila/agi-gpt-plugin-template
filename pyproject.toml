@@ -6,9 +6,9 @@ build-backend = "hatchling.build"
 name = "alpha_plugin_template"
 version = "0.0.2"
 authors = [
-  { name="Torantulino", email="34168009+BillSchumacher@users.noreply.github.com" },
+  { name="Coozila", email="34168009+BillSchumacher@users.noreply.github.com" },
 ]
-description = "The template plugin for Auto-GPT."
+description = "The template plugin for AGI-GPT."
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
@@ -19,8 +19,8 @@ classifiers = [
 dependencies = ["abstract-singleton"]
 
 [project.urls]
-"Homepage" = "https://github.com/Torantulino/Auto-GPT"
-"Bug Tracker" = "https://github.com/Torantulino/Auto-GPT"
+"Homepage" = "https://github.com/Coozila/agi-gpt"
+"Bug Tracker" = "https://github.com/Coozila/agi-gpt"
 
 [tool.black]
 line-length = 88

@@ -1,14 +1,14 @@
 # alpha-plugin-template
-A starting point for developing your own external plug-in for Auto-GPT
+A starting point for developing your own external plug-in for agi-gpt
 
-# **If you want your plugin to live within the codebase, use the example in the [plugins repo](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) instead**
+# **If you want your plugin to live within the codebase, use the example in the [plugins repo](https://github.com/Coozila/agi-gpt-Plugins) instead**
 
 ### Plugin Installation Steps
 
 1. **Clone or download the plugin repository:**
    Clone the plugin repository, or download the repository as a zip file.
   
-   ![Download Zip](https://raw.githubusercontent.com/BillSchumacher/Auto-GPT/master/plugin.png)
+   ![Download Zip](https://raw.githubusercontent.com/BillSchumacher/agi-gpt/master/plugin.png)
 
 2. **Install the plugin's dependencies (if any):**
    Navigate to the plugin's folder in your terminal, and run the following command to install any required dependencies:
