@@ -1,4 +1,4 @@
-"""This is a template for agi-gptplugins."""
+"""This is a template for agi-gpt-plugins."""
 import abc
 from typing import Any, Dict, List, Optional, Tuple, TypeVar, TypedDict
 
@@ -14,14 +14,14 @@ class Message(TypedDict):
 
 class AGI-GPTPluginTemplate(AbstractSingleton, metaclass=Singleton):
     """
-    This is a template for agi-gptplugins.
+    This is a template for agi-gpt-plugins.
     """
 
     def __init__(self):
         super().__init__()
         self._name = "agi-gpt-plugin-template"
         self._version = "0.1.0"
-        self._description = "This is a template for agi-gpt plugins."
+        self._description = "This is a template for agi-gpt-plugins."
 
     @abc.abstractmethod
     def can_handle_on_response(self) -> bool:
