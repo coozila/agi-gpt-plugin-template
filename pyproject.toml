@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "agi_gpt_plugin_template"
-version = "0.0.2"
+version = "0.1.0"
 authors = [
   { name="olariuromeo", email="2572824+olariuromeo@users.noreply.github.com" },
 ]
