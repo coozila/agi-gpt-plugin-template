@@ -1,7 +1,7 @@
 # alpha-plugin-template
 A starting point for developing your own external plug-in for agi-gpt
 
-# **If you want your plugin to live within the codebase, use the example in the [plugins repo](https://github.com/Coozila/agi-gpt-Plugins) instead**
+# **If you want your plugin to live within the codebase, use the example in the [plugins repo](https://github.com/coozila/agi-gpt-plugins) instead**
 
 ### Plugin Installation Steps
 

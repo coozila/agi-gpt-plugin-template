@@ -19,8 +19,8 @@ classifiers = [
 dependencies = ["abstract-singleton"]
 
 [project.urls]
-"Homepage" = "https://github.com/Coozila/agi-gpt"
-"Bug Tracker" = "https://github.com/Coozila/agi-gpt"
+"Homepage" = "https://github.com/coozila/agi-gpt"
+"Bug Tracker" = "https://github.com/coozila/agi-gpt"
 
 [tool.black]
 line-length = 88
