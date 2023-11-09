@@ -1,4 +1,4 @@
-# alpha-plugin-template
+# agi-gpt-plugin-template
 A starting point for developing your own external plug-in for agi-gpt
 
 # **If you want your plugin to live within the codebase, use the example in the [plugins repo](https://github.com/coozila/agi-gpt-plugins) instead**
@@ -21,7 +21,7 @@ A starting point for developing your own external plug-in for agi-gpt
    If you cloned the repository, compress the plugin folder as a Zip file.
 
 4. **Copy the plugin's Zip file:**
-   Place the plugin's Zip file in the `plugins` folder of the alpharepository.
+   Place the plugin's Zip file in the `plugins` folder of the agi-gptrepository.
 
 5. **Allowlist the plugin (optional):**
    Add the plugin's class name to the `ALLOWLISTED_PLUGINS` in the `.env` file to avoid being prompted with a warning when loading the plugin:
