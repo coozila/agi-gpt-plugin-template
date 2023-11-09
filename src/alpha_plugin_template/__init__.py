@@ -12,7 +12,7 @@ class Message(TypedDict):
     content: str
 
 
-class Agi-GPTPluginTemplate(AbstractSingleton, metaclass=Singleton):
+class AGI-GPTPluginTemplate(AbstractSingleton, metaclass=Singleton):
     """
     This is a template for agi-gptplugins.
     """
