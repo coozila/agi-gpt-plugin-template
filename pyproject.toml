@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "agi_gpt_plugin_template"
 version = "0.0.2"
 authors = [
-  { name="Coozila", email="34168009+BillSchumacher@users.noreply.github.com" },
+  { name="olariuromeo", email="2572824+olariuromeo@users.noreply.github.com" },
 ]
 description = "The template plugin for AGI-GPT."
 readme = "README.md"
